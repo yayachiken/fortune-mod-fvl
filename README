@@ -1,0 +1,106 @@
+Contents
+--------
+
+        1. Installation and usage
+        2. Rebuilding
+	3. Conversion to HTML
+        4. Availability
+        5. Acknowledgments
+        6. Contacting the author
+
+1. Installation and usage
+-------------------------
+
+To install these fortunes, copy the files
+
+at.linux
+at.linux.dat
+fvl
+fvl.dat
+rss
+rss.dat
+tretkowski
+tretkowski.dat
+
+to your fortunes directory. This location is not standardized.
+Some possibilities:
+
+/usr/games/lib/fortunes
+/usr/share/games/fortune
+/usr/share/games/fortunes
+
+To use it, simply type:
+
+fortune fvl
+
+On some systems fortune is not reachable through $PATH by default.
+On RedHat you might try /usr/games/fortune instead.
+
+Note that these pages are encoded in ISO_8859-15.
+
+2. Rebuilding
+-------------
+
+The perl script 'mkfortune' is shipped in a separate package 'mkfortune'.
+
+mkfortune fvl.id > fvl
+strfile fvl
+
+You also need
+
+perl 5
+Text::Iconv >= 1.2       http://search.cpan.org/search?dist=Text-Iconv
+MIME::Base64 >= 2.12     http://search.cpan.org/search?dist=Base64
+GNU wget
+HTTP access to www.google.com
+a file system that accepts '?' and other characters in a file name
+
+strfile is part of the fortune package.
+On some systems it is located in directory /usr/sbin/,
+although it does not require root permissions.
+
+mkfortune saves every downloaded message in the current directory.
+Should the file already exist it is not downloaded again.
+I recommend creating and changing into a new directory before
+executing mkfortune.
+
+You can install the man page by copying the file mkfortune.1 to an
+appropriate directory. Some possibilities:
+
+/usr/local/man/man1/
+/usr/share/man/man1
+/usr/man/man1/
+
+3. Conversion to HTML
+---------------
+
+You can convert the output of 'mkfortune' to HTML with 'html.sed',
+also part of package 'mkfortune'.
+
+The first fortune must be prefixed by a line consisting of '%'
+(and nothing else). Fortunes must be separated by lines consisting
+of '%' (and nothing else).
+A trivial example (only one cookie):
+
+( echo '%'; /usr/games/fortune fvl ) | ./html.sed > incomplete.html
+
+4. Availability
+---------------
+
+You can always get the latest version from
+http://sourceforge.net/projects/fortune-mod-fvl
+
+5. Acknowledgments
+------------------
+
+The fortunes were extracted from archived Usenet postings at
+www.google.com. Many thanks to their authors, especially
+Felix von Leitner (http://www.fefe.de).
+
+6. Contacting the author
+------------------------
+
+Where author means author of the fortune file and the download
+tool, mkfortune. Suggestions, questions, comments, patches:
+
+alba@users.sourceforge.net 

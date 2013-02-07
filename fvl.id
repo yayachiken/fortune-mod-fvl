@@ -1,0 +1,353 @@
+$AUTHOR = Felix von Leitner
+$GROUP = de.alt.flame
+$GROUP = de.alt.gruppenkasper
+$GROUP = de.alt.sysadmin.recovery
+$GROUP = de.comp.hardware.netzwerke
+$GROUP = de.comp.os.unix.discussion
+$GROUP = de.comp.os.unix.programming
+$GROUP = de.comp.os.unix.shell
+$GROUP = de.comm.protocols.tcp-ip
+$GROUP = de.comp.security.firewall
+$GROUP = de.comp.security.misc
+$GROUP = de.org.ccc
+$GROUP = de.org.politik.spd
+$GROUP = bln.announce.fub.cs.d
+3acfbe1f@fefe.de	9 3
+3ae60049@fefe.de	10 3	31 4	36 1
+3ae600c2@fefe.de	4 3	11 2
+3ae60166@fefe.de	6 4
+3ae603bf@fefe.de	13 1
+3ae70c1b@fefe.de	8 6
+3aec65b0@fefe.de	10 2	13 1
+3afdb199@fefe.de	7 8
+3afeee36@fefe.de	6 5
+3b113bcf@fefe.de	39 2
+3b1a9462@fefe.de	30 3	39 5
+3b279209@fefe.de	9 3
+3b279291@fefe.de	5 5	15 1	22 1
+3b2b7aaf@fefe.de	15 4
+3b31ff36@fefe.de	10 2
+3b335c1e@fefe.de	10 3
+3b79ca13@fefe.de	6 3
+3b84322e@fefe.de	5 1	7 3
+3b864110@fefe.de	7 1
+3b88271a@fefe.de	4 1	8 2
+3b962a1e@fefe.de	5 1
+3b9bf835@fefe.de	24 2	27 2
+3b9f74d8@fefe.de	4 1
+3bb8f2ea@fefe.de	15 3
+3bbb9922@fefe.de	25 7
+3bbc95d1@fefe.de	9 4
+3bc8520d@fefe.de	5 3	9 2
+3bcb8d88@fefe.de	13 6	38 10
+3bcb8e2a@fefe.de	6 2
+3bce0a1d@fefe.de	17 4
+3bd33a8a@fefe.de	10 3	14 3
+3bd6d693@fefe.de	5 1
+3be05a2d@fefe.de	22 1
+3be41837@fefe.de	37 2	74 4	88 1	115 5	140 4	151 2
+3be741c7@fefe.de	14 3
+3beb285b@fefe.de	5 1
+3bf018f4@fefe.de	4 3
+3bf168e5@fefe.de	8 2
+3bfc2a6f@fefe.de	6 1	8 3
+3c03cdac@fefe.de	7 6
+3c09616f@fefe.de	5 5	11 3
+3c099f8d@fefe.de	35 5	206 7	234 3	243 4
+3c0bb930@fefe.de	7 3	14 4
+3c0d36d3@fefe.de	9 2	12 4	17 4
+3c0fda52@fefe.de	6 2	23 4	42 4	53 3
+3c0fdea2@fefe.de	6 5	16 1	27 4	34 6	58 1	62 3
+3c101234@fefe.de	17 6	24 3
+3c11792d@fefe.de	8 5	42 2
+3c117c31@fefe.de	7 8	16 1	22 2	29 2	42 8	54 1
+3c117e72@fefe.de	9 3
+3c122b46@fefe.de	24 3
+3c1284ee@fefe.de	5 1	9 2
+3c129499@fefe.de	19 3	34 1	35 6	42 10
+3c12e2d6@fefe.de	13 3
+3c12e413@fefe.de	9 3
+3c135cd8@fefe.de	34 2	41 8
+3c17b778@fefe.de	11 6	30 2
+3c17bb1e@fefe.de	35 7
+3c17bfef@fefe.de	5 7
+3c17c4b6@fefe.de	5 3	18 5	36 4
+3c19441e@fefe.de	20 3	37 6
+3c1a7d41@fefe.de	7 4	26 9
+3c1d6e04@fefe.de	9 2
+3c2106fd@fefe.de	21 3	28 5
+3c23ed20@fefe.de	7 1	14 1	18 1
+3c33b4b1@fefe.de 	5 1	11 5	17 7
+3c3b13fd@fefe.de	9 2
+3c4c5fec@fefe.de	8 7	16 4	21 3
+3c4c606a@fefe.de	17 2	20 2	27 2
+3c4c60d7@fefe.de	17 2
+3c4d3cb6@fefe.de	9 3	30 2
+3c4d5be6@fefe.de	5 4	15 2
+3c50959d@fefe.de	11 2
+3c509a21@fefe.de	15 3
+3c5595a5@fefe.de	10 1	11 7	19 4	23 10	34 5	44 7
+3c559908@fefe.de	6 2	9 6
+3c5754d6@fefe.de	12 2
+3c5879dd@fefe.de	55 6	66 2	103 3
+3c587cc8@fefe.de	32 5
+3c587f03@fefe.de	7 2	10 5
+3c5abe71@fefe.de	5 5
+3c5ac95d@fefe.de	8 5
+3c5b40ff@fefe.de	12 5
+3c5c0e1b@fefe.de	4 1	14 1	31 2	34 1
+3c5c1cce@fefe.de	5 2	8 2
+3c5d8cfd@fefe.de	8 1	9 3	13 2
+3c5f33cc@fefe.de	7 1
+3c5fd29f@fefe.de	9 2
+3c606bcf@fefe.de	49 3
+3c6105a3@fefe.de	7 5
+3c61d30a@fefe.de	17 1
+3c61d544@fefe.de	10 3
+3c6278f7@fefe.de	4 3
+3c633214@fefe.de	5 3
+3c6392dc@fefe.de	6 2
+3c639405@fefe.de	6 2
+3c640bee@fefe.de	5 5	14 2
+3c643be9@fefe.de	11 6	30 1
+3c6715dd@fefe.de	7 5
+3c6e8282@fefe.de	32 4	45 7
+3c72bc8e@fefe.de	9 3	13 5
+3c742dc8@fefe.de	5 1
+3c74ed9c@fefe.de	8 3
+3c750cbd@fefe.de	4 3
+3c75805c@fefe.de	5 2
+3c758107@fefe.de	6 2
+3c763ec9@fefe.de	5 3
+3c764147@fefe.de	5 1
+3c77a8aa@fefe.de	10 2
+3c77ae01@fefe.de	10 3
+3c78371e@fefe.de	10 4	15 2
+3c792ab4@fefe.de	5 5
+3c792ddb@fefe.de	8 3	17 1	27 3
+3c7941ad@fefe.de	20 1
+3c7970a6@fefe.de	17 2
+3c7a36be@fefe.de	5 3	14 3
+3c7a471a@fefe.de	10 1
+3c7a4827@fefe.de	9 2
+3c7aa570@fefe.de	6 1	12 4	37 2
+3c7aa63a@fefe.de	8 2
+3c7bb016@fefe.de	9 3
+3c7bb54d@fefe.de	9 1
+3c7c13ab@fefe.de	71 3	78 4	86 2
+3c7c184a@fefe.de	4 1
+3c7d1915@fefe.de	5 2
+3c80224c@fefe.de	5 3
+3c802446@fefe.de	11 3
+3c8026a4@fefe.de	8 4
+3c80289d@fefe.de	5 4	10 1
+3c802980@fefe.de	6 6
+3c802ad0@fefe.de	5 2	8 3
+3c802ba7@fefe.de	9 4	18 1
+3c8035d6@fefe.de	5 2	20 6	31 7
+3c80c513@fefe.de	6 3
+3c83bdd5@fefe.de	7 1
+3c83d253@fefe.de	4 2
+3c83dc79@fefe.de	6 2
+3c84d276@fefe.de	6 2
+3c8bfbde@fefe.de	5 5
+3c8bfceb@fefe.de	5 1	7 3
+3c8d2b52@fefe.de	5 1
+3c8d2c5a@fefe.de	5 3	12 2
+3c8d2ee7@fefe.de	11 2
+3c8d2f48@fefe.de	12 1
+3c934193@fefe.de	4 1	5 7	15 1
+3c98b6e8@fefe.de	6 2	11 1
+3c98c8a2@fefe.de	7 1
+3c98ec1e@fefe.de	4 2
+3c99d0ad@fefe.de	4 4
+3c99d2ec@fefe.de	5 5
+3c9a5b10@fefe.de	5 3
+3c9a8743@fefe.de	5 4
+3c9d0aad@fefe.de	16 1
+3c9d0b26@fefe.de	9 1
+3c9f37e3@fefe.de	23 1
+3c9f7b2a@fefe.de	9 3	13 3
+3c9fc3f0@fefe.de	11 3
+3ca04fde@fefe.de	4 2
+3ca07da5@fefe.de	9 3
+3ca0d9c1@fefe.de	6 4	11 1
+3ca0dc53@fefe.de	7 4	12 3	16 4
+3ca2f376@fefe.de	5 3	11 1
+3ca2f3e2@fefe.de	4 1
+3ca9c3eb@fefe.de	16 1
+3cb4f2f9@fefe.de	4 1	9 1	13 1
+3cb4f512@fefe.de	10 3	14 5
+3cb612ec@fefe.de	6 1	12 1	17 3	21 1
+3cb965ac@fefe.de	5 4
+3cba1f47@fefe.de	7 1	28 3	36 3	46 2	53 2
+3cbaa6ba@fefe.de	12 5	18 4
+3cbaa859@fefe.de	5 4
+3cbaa9d8@fefe.de	7 4	12 1
+3cbad7db@fefe.de	7 3	11 1
+3cbad8b6@fefe.de	7 5	16 2
+3cbb08e9@fefe.de	11 2
+3cbb34b2@fefe.de	6 1	12 2	15 3
+3cbd9cc3@fefe.de	4 2
+3cbedf2a@fefe.de	6 2
+3cbee239@fefe.de	7 3	17 3
+3cbee325@fefe.de	4 2	12 2	15 2
+3cc000ad@fefe.de	4 1
+3cc04719@fefe.de	9 3	13 3
+3cc04864@fefe.de	4 4	12 2	15 5
+3cc04b00@fefe.de	5 3	9 2	12 9
+3cc06192@fefe.de	4 3
+3cc098ff@fefe.de	4 2	11 2
+3cc168d3@fefe.de	6 1	14 2	23 1	27 1	31 1	35 1	39 3	45 1	49 2
+3cc32961@fefe.de	4 2	7 2
+3cc32dd6@fefe.de	17 3
+3cc33867@fefe.de	8 5	14 2
+3cc3398b@fefe.de	5 3	9 1
+3cc33a19@fefe.de	6 3	10 2
+3cc33c22@fefe.de	5 1
+3cc33c6d@fefe.de	4 1	9 1
+3cc33d5f@fefe.de	17 1	29 2	44 2
+3cc55cd3@fefe.de	6 1
+3cc57130@fefe.de	6 6	13 5	19 4
+3cc9a6d7@fefe.de	58 3
+3ccd5787@fefe.de	33 3
+3cd28a0e@fefe.de	5 2
+3cd28d30@fefe.de	8 2
+3cd2f4d4@fefe.de	7 3
+3cd54125@fefe.de	5 3
+3cd54204@fefe.de	6 11	18 3
+3cd5476e@fefe.de	5 2
+3cd547f6@fefe.de	4 2
+3cd54b76@fefe.de	5 3
+3cd5685d@fefe.de	7 2
+3cd6bdb9@fefe.de	8 1	10 17
+3cd71305@fefe.de	4 3
+3cd83992@fefe.de	9 2
+3cd8588f@fefe.de	18 1
+3cd858e0@fefe.de	10 2
+3cd85a41@fefe.de	6 3	15 3	23 2
+3cd969d4@fefe.de	6 1
+3cdb1c5c@fefe.de	8 5
+3cdb1f86@fefe.de	4 2	9 2
+3cdb244c@fefe.de	16 2
+3cdbbb2e@fefe.de	6 3	22 2
+3cdbd2c5@fefe.de	9 2
+3cdd0e74@fefe.de	8 6
+3cdd1315@fefe.de	6 2	9 2
+3cdd2e8c@fefe.de	7 3	17 2	29 3
+3cdd2f11@fefe.de	14 4
+3cdd819e@fefe.de	5 3
+3cdd82f9@fefe.de	6 2
+3cdd838e@fefe.de	5 2
+3cdd878a@fefe.de	6 2
+3cdee5d9@fefe.de	6 2
+3cdee73e@fefe.de	7 2
+3cdee886@fefe.de	6 3	10 2
+3cdee905@fefe.de	5 2	8 1	10 1
+3cdfa510@fefe.de	5 3
+3ce14c35@fefe.de	10 4	15 2
+3ce15b81@fefe.de	6 2	9 3	18 2	54 2	61 2
+3ce15ff9@fefe.de	4 1	14 2
+3ce19af2@fefe.de	11 6
+3ce25fec@fefe.de	8 3
+3ce2be01@fefe.de	6 2
+3cf2b5ec@fefe.de	4 4
+3cf505ca@fefe.de	6 3
+3cf507b3@fefe.de	5 2
+3cf50861@fefe.de	6 6
+3cf50903@fefe.de	7 1
+3cf50934@fefe.de	9 2
+3cf689f6@fefe.de	5 2
+3cf68aec@fefe.de	10 1	15 2
+3cfce556@fefe.de	25 1	33 3
+3cfd3b4c@fefe.de	15 2
+3cfd4e95@fefe.de	16 3
+3cfe3983@fefe.de	4 2	14 1
+3d00fe5f@fefe.de	4 2	10 2	13 1
+3d0382f5@fefe.de	16 4	27 4	38 2	61 4
+3d05378c@fefe.de	2 4
+3d0539b7@fefe.de	10 2	33 2
+3d065fb2@fefe.de	5 3	20 4
+3d09956d@fefe.de	6 4	11 3
+3d0e550d@fefe.de	6 3	10 1	12 3
+3d0fa75f@fefe.de	2 3
+3d18d5a3@fefe.de	14 8	23 4
+3d2b1c76@fefe.de	4 2
+3d2b1fd6@fefe.de	15 3
+3d31d71c@fefe.de	6 4
+3d332997@fefe.de	45 7
+3d332ef7@fefe.de	5 2	8 1	14 4	34 1	44 2
+3d335fd1@fefe.de	8 3
+3d3360db@fefe.de	10 3
+3d340199@fefe.de	7 8
+3d357693@fefe.de	5 3
+3d357802@fefe.de	6 2
+3d3868e3@fefe.de	33 5
+3d397434@fefe.de	11 1
+3d399ba3@fefe.de	27 3
+3d3b14b8@fefe.de	10 6
+3d416399@fefe.de	4 4	9 1
+3d42c963@fefe.de	7 3
+3d42ca8c@fefe.de	6 5
+3d4971d0@fefe.de	5 3
+3d502371@fefe.de	6 3	10 4
+3d516a79@fefe.de	6 3
+3d516adc@fefe.de	8 5
+3d525a53@fefe.de	5 4	10 4
+3d528208@fefe.de	15 5
+3d528400@fefe.de	7 2	10 2	26 4	34 1	48 3	52 2
+3d528b5e@fefe.de	11 5	17 3
+3d529db0@fefe.de	6 5
+3d52aeea@fefe.de	13 4
+3d53e611@fefe.de	2 3
+3d5a5be0@fefe.de	4 4	9 1
+3d996d63@fefe.de	22 5
+3da18134@fefe.de	167 5
+3da68012@fefe.de	81 3
+3daec8d4@fefe.de	7 5
+3daf3480@fefe.de	23 1	25 4
+3db3f073@fefe.de	15 2
+3db406c6@fefe.de	7 3
+3db42a76@fefe.de	11 1
+3db42f45@fefe.de	2 3
+3db69c6c@fefe.de	6 4
+3dd6d510@fefe.de	7 3
+3ded0e47@fefe.de	5 4
+3ded1122@fefe.de	25 14
+3def996f@fefe.de	17 1
+3dfafb5e@fefe.de	39 5
+3e145173@fefe.de	5 3	13 5	28 2	41 6	48 2	64 2	102 3	106 4
+3e15d518@fefe.de	5 14	35 3	39 2	51 2
+7pacud$c5l$1@fu-berlin.de	183 3	163 4	178 4	192 9
+7rqhq8$a6u$2@fu-berlin.de	16 3
+7san7i$oo7$1@fu-berlin.de	8 4
+80uab0$18pl0$2@fu-berlin.de	8 1
+828ufd$2hl04$1@fu-berlin.de	24 3	54 1	81 3	97 4
+slrn5mrkfu.9o.leitner@xorn.prz.tu-berlin.de	281 5	314 4	390 5	410 4	425 2	501 4	519 5	565 3	599 3	619 2
+slrn5od4la.94u.felix@kutta.math.fu-berlin.de	144 6	243 1	267 1	271 3	277 3	289 3
+slrn63kats.n9.leitner@xorn.math.fu-berlin.de	8 5
+slrn6l6nk7.7q.leitner-news@xorn.math.fu-berlin.de	27 2
+slrn6mhbn5.hf.leitner-news@xorn.math.fu-berlin.de	7 7	54 2	61 2
+slrn6mnj5s.3bu.leitner@linus.germany.sial.com	18 1	43 7
+slrn6qcdts.6fi.leitner@felix.amdiv.de	9 9	36 9
+slrn7ka9m6.254.leitner-nospam@floatingeye.math.fu-berlin.de	5 4
+slrn7l531k.kpj.felix@riesling.convergence.de	6 1	8 3	34 4	39 2	55 9
+slrn7m9thp.cea.der@riesling.convergence.de	4 1
+slrn7n1m04.898.der@baileys.convergence.de	6 3
+slrn7n6ugq.uja.der@baileys.convergence.de	2 3
+slrn7n6vtm.uja.der@baileys.convergence.de	5 3	19 3	34 3	51 2	66 3	86 1	94 4
+slrn8it7g3.jnh.fefe@baileys.convergence.de	2 4	13 5
+slrn8k32ah.o7k.fefe@baileys.convergence.de	5 4
+slrn8n43f9.kf8.fefe@baileys.convergence.de	60 4
+slrn8vevp3.tgm.fefe@baileys.convergence.de	10 3	14 4	19 4	24 2	27 2	30 5	36 4	41 5
+slrn92ge2h.39d.fefe@baileys.convergence.de	131 2	170 6
+slrn94fne5.5th.fefe@baileys.convergence.de	10 2
+slrn9547gd.pc7.fefe@baileys.convergence.de	7 2	12 1
+slrn9574rk.tqn.fefe@baileys.convergence.de	6 1
+slrn9591vb.r9.fefe@baileys.convergence.de	7 2
+slrn959pcs.2o2.fefe@baileys.convergence.de	6 2	14 3
+slrn959u4l.2o2.fefe@baileys.convergence.de	81 3
+slrn96m73q.8p6.fefe@baileys.convergence.de	6 4	15 2
+slrn97rf5f.bja.fefe@baileys.convergence.de	26 1
+slrn9845pg.d64.fefe@baileys.convergence.de	316 5
+slrn9ain8l.4rl.fefe@baileys.convergence.de	9 2	16 3
